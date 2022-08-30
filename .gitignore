@@ -1,0 +1,6 @@
+.vscode
+*.dSYM
+bin
+lib
+*.bmp
+build
